@@ -1,0 +1,9 @@
+Preguntas:
+¿QUE ES GIT?
+Git es un sistema de control de versiones distribuido que permite llevar un seguimiento de los cambios en el código fuente durante el desarrollo del proyecto
+¿QUE ES UN REPOSITORIO?
+Es una base de datos que almacena la informacion 
+¿QUE ES UN COMMIT?
+Es un punto en el tiempo en el que se hace una actualizacion de una version de uno o varios archivos
+¿QUE ES UNA RAMA?
+Es otra linea de tiempo la cual nacio de la linea de timepo original denominada 'main'
