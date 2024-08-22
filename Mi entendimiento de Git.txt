@@ -1,0 +1,9 @@
+Preguntas:
+¿QUE ES GIT?
+Es una aplicaion web que se encagar de controlar versiones de archivos de texto plano
+¿QUE ES UN REPOSITORIO?
+Es una base de datos que almacena la informacion 
+¿QUE ES UN COMMIT?
+Es un punto en el tiempo en el que se hace una actualizacion de una version de uno o varios archivos
+¿QUE ES UNA RAMA?
+Es otra linea de tiempo la cual nacio de la linea de timepo original denominada 'main'
