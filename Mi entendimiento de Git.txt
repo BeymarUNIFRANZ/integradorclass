@@ -1,6 +1,6 @@
 Preguntas:
 ¿QUE ES GIT?
-Es una aplicaion web que se encagar de controlar versiones de archivos de texto plano
+Git es un sistema de control de versiones distribuido que permite llevar un seguimiento de los cambios en el código fuente durante el desarrollo del proyecto
 ¿QUE ES UN REPOSITORIO?
 Es una base de datos que almacena la informacion 
 ¿QUE ES UN COMMIT?
